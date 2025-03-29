@@ -1,1 +1,1 @@
-# GLPI_
+# GLPI
